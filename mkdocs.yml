@@ -1,0 +1,10 @@
+site_name: Documentacion del proyecto
+
+theme:
+  name: material
+  language: es
+
+nav:
+  - Inicio: index.md
+  - Instalacion: instalacion.md
+  - Uso: uso.md
