@@ -1,0 +1,1 @@
+{"config":{"lang":["es"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"],"fields":{"title":{"boost":1000.0},"text":{"boost":1.0},"tags":{"boost":1000000.0}}},"docs":[{"location":"","title":"Inicio","text":"<p>index.md</p>"},{"location":"instalacion/","title":"Instalacion","text":"<p>instalacion.md</p>"},{"location":"uso/","title":"Uso","text":"<p>uso.md</p>"}]}
